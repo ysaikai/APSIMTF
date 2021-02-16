@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{A3E10705-F2BB-4182-A19C-7F63222584DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APSIM.Shared", "APSIM.Shared\APSIM.Shared.csproj", "{E243AE8D-35E3-4397-B180-EF1E8A91AE8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E10705-F2BB-4182-A19C-7F63222584DF}.Debug|x64.ActiveCfg = Debug|x64
+		{A3E10705-F2BB-4182-A19C-7F63222584DF}.Debug|x64.Build.0 = Debug|x64
+		{A3E10705-F2BB-4182-A19C-7F63222584DF}.Release|x64.ActiveCfg = Release|x64
+		{A3E10705-F2BB-4182-A19C-7F63222584DF}.Release|x64.Build.0 = Release|x64
+		{E243AE8D-35E3-4397-B180-EF1E8A91AE8C}.Debug|x64.ActiveCfg = Debug|x64
+		{E243AE8D-35E3-4397-B180-EF1E8A91AE8C}.Debug|x64.Build.0 = Debug|x64
+		{E243AE8D-35E3-4397-B180-EF1E8A91AE8C}.Release|x64.ActiveCfg = Release|x64
+		{E243AE8D-35E3-4397-B180-EF1E8A91AE8C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E99A91A-7D38-4483-9AA5-52A706127E68}
+	EndGlobalSection
+EndGlobal
